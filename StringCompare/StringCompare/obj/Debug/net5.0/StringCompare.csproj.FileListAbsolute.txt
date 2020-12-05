@@ -1,0 +1,16 @@
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\StringCompare.exe
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\StringCompare.deps.json
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\StringCompare.runtimeconfig.json
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\StringCompare.runtimeconfig.dev.json
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\StringCompare.dll
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\ref\StringCompare.dll
+C:\Users\My Build\source\repos\StringCompare\StringCompare\bin\Debug\net5.0\StringCompare.pdb
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.csprojAssemblyReference.cache
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.AssemblyInfoInputs.cache
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.AssemblyInfo.cs
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.csproj.CoreCompileInputs.cache
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.dll
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\ref\StringCompare.dll
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.pdb
+C:\Users\My Build\source\repos\StringCompare\StringCompare\obj\Debug\net5.0\StringCompare.genruntimeconfig.cache
